@@ -1,5 +1,7 @@
-I'm @Doowon-Jeong\n
-I major in Nuclear Engineering and working as an undergraduate intern at Nuclear Materials Modeling Lab, Kyung Hee University. \n
+I'm Doowon Jeong. 
+
+I major in Nuclear Engineering and working as an undergraduate intern at Nuclear Materials Modeling Lab, Kyung Hee University. 
+
 I'm interested in C++, Python, Fortran, and JVM languages. 
 
 <!---
